@@ -4,6 +4,8 @@ Generate a simple music video easily.
 
 ![Alt text](./docs/example.gif 'Example of video')
 
+([Full example](https://www.youtube.com/watch?v=XanW5kBm-rk))
+
 ## Getting started
 
 > node.js 12 or later will need to be installed
